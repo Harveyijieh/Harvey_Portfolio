@@ -1,5 +1,3 @@
-# Harvey's Portfolio
----
 
 ### Data Analytics Portfolio
  
